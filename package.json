@@ -1,0 +1,19 @@
+{
+  "name": "dupli",
+  "version": "1.0.0",
+  "description": "Count duplicates.",
+  "repository": "stefanmiodrag/dupli",
+  "license": "MIT",
+  "author": {
+    "name": "Stefan Miodrag",
+    "email": "hello@stefanmiodrag.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "duplicates",
+    "count",
+    "string"
+  ]
+}
