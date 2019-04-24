@@ -1,8 +1,8 @@
 {
-  "name": "dupli",
+  "name": "twinStr",
   "version": "1.0.0",
   "description": "Count duplicates.",
-  "repository": "stefanmiodrag/dupli",
+  "repository": "stefanmiodrag/twinStr",
   "license": "MIT",
   "author": {
     "name": "Stefan Miodrag",
