@@ -4,7 +4,7 @@ Module to count the number of duplicate of characters within a string.
 
 ## Installation
 
-    $ npm install twin-str --save
+    $ npm install twin-str
 
 ## Example
 
