@@ -10,11 +10,11 @@ twinStr = (str) => {
     try {
         const result = strArray.length;
         return result + " duplicates were found...";
-
+        
     } catch (e) {
         return 0;
     }
 }
 
-module.exports = dupli;
+module.exports = twinStr;
 
